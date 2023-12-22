@@ -1,0 +1,31 @@
+body {
+	background-color: rgb(5, 1, 19);
+}
+
+p {
+	color: rgb(228, 155, 20);
+	float: right;
+	width: 500px;
+	height: 300px;
+	margin: 15px;
+	border: 3px #ccc;
+	border-right: dashed;
+	border-top:double;
+	border-left:solid;
+	overflow: scroll;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+.img1 {
+	float: left;
+	width: 800px;
+	height: 500px;
+	box-shadow: 11px 8px 18px 3px rgb(228, 155, 20);
+}
+
+h2 {
+	padding-right: 215px;
+	float: right;
+	color: rgb(228, 155, 20);
+}
